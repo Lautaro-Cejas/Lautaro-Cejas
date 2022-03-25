@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**Lautaro-Cejas/Lautaro-Cejas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 -👋 Hi, I’m @Lautaro-Cejas.
 -👀 I’m interested in being hired for any computer job.
 -🌱 I’m currently learning programming languages.
@@ -19,4 +12,3 @@ GM: alexgamerop7@gmail.com
 - 💬 Ask me about any doubt.
 - 😄 Pronouns: She/He/They.
 - ⚡ Fun fact: don't be sad cuz sad backwards is das and das not cool :P
--->
